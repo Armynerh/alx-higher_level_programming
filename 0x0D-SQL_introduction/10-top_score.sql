@@ -1,0 +1,1 @@
+SELECT 'second_table.score', 'second_table.name' from 'hbtn_0c_0' ORDER BY DESC
